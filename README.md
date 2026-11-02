@@ -19,3 +19,7 @@ Open `index.html` in a modern browser; there are no build steps or dependencies.
 ## Credits and license
 
 Game code and artwork are original. Inspired by the tank games described in the [1977 Atari Combat manual](https://archive.org/details/combat-game-manual-atari-2600-1977); this project is unaffiliated with Atari. Licensed under the [MIT License](LICENSE).
+
+## Arcade metadata
+
+See [docs/arcade-metadata.md](docs/arcade-metadata.md) for the game-owned manifest and screenshot provenance.
