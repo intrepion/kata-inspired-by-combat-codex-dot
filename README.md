@@ -1,5 +1,7 @@
 # Crossfire Field
 
+[Kata Arcade](https://intrepion.github.io/)
+
 A small, original browser tank duel inspired by Atari's *Combat*. Maneuver around barricades, line up shots, and score more hits than your opponent in a 2 minute, 16 second match. Choose ricocheting, straight or billiard-hit shells, and play against the computer or a friend on the same device.
 
 [Play online](https://intrepion.github.io/kata-inspired-by-combat-codex-dot/)
