@@ -1,6 +1,6 @@
 # Crossfire Field
 
-A small, original browser tank duel inspired by Atari's *Combat*. Maneuver around barricades, line up shots, and score more hits than your opponent in a 2 minute, 16 second match. Choose ricocheting or straight shells, and play against the computer or a friend on the same device.
+A small, original browser tank duel inspired by Atari's *Combat*. Maneuver around barricades, line up shots, and score more hits than your opponent in a 2 minute, 16 second match. Choose ricocheting, straight or billiard-hit shells, and play against the computer or a friend on the same device.
 
 [Play online](https://intrepion.github.io/kata-inspired-by-combat-codex-dot/)
 
@@ -23,3 +23,7 @@ Game code and artwork are original. Inspired by the tank games described in the 
 ## Arcade metadata
 
 See [docs/arcade-metadata.md](docs/arcade-metadata.md) for the game-owned manifest and screenshot provenance.
+
+## Billiard hit
+
+In Billiard hit mode, only shells that have rebounded from a wall or barricade can score. Direct hits consume the shell without scoring or granting protection; self-hits remain harmless. Shells allow up to four rebounds during their existing 2.5-second lifetime. Changing shell rules starts a fresh match and clears held controls. This follows the original [Atari Tank-Pong billiard rule](https://atari.com/pages/combat); the rebound budget and physics remain prototype choices. The computer retains its basic aiming strategy and is not a specialized bank-shot opponent. Run `node --test tests/*.test.cjs` for simulation regressions.
