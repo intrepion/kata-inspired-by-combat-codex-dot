@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "workflowCommit": "15908e650d4deb019122e07443c51e9dda7985aa",
+  "sourceCommit": "15908e650d4deb019122e07443c51e9dda7985aa",
+  "runId": "41675658557",
+  "url": "http://127.0.0.1:4280/",
+  "inputs": {
+    "index.html": "644ac606a04a7aeb69949255dde137da11089dcce434c534bfccea6ae35b20ea",
+    "style.css": "bf34cf9c218e37b2766192eeb2debde273efc62fcd5762bd6da5c188eb253cd1",
+    "game.js": "fe30f46a5734b92a11470d0400e91fb6385201b812b4cfaed1b682fca617b8d9"
+  },
+  "browser": "153.0.8010.12",
+  "viewport": {
+    "width": 1280,
+    "height": 1000
+  },
+  "screenshots": [
+    "crossfire-01.png",
+    "crossfire-02.png"
+  ]
+}

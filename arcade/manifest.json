@@ -4,43 +4,43 @@
   "playUrl": "https://intrepion.github.io/kata-inspired-by-combat-codex-dot/",
   "screenshots": [
     {
-      "path": "arcade/screenshots/ci-20261102-01.jpg",
-      "sha256": "6af439961123cec6c77a9bf7490ffea977b5db0fc021e61c9d87a7ef6e618627",
-      "alt": "Crossfire Field gameplay, view 1",
+      "path": "arcade/screenshots/review-20261103-01.jpg",
+      "sha256": "f781ef36921ab0157f5996aa9993e37c59c971b4e0cab60d8d0055fe507a889b",
+      "alt": "Crossfire Field gameplay after the mechanics update, view 1",
       "provenance": {
         "kind": "ci_gameplay_capture",
-        "sourcePath": "arcade/capture-evidence/ci-20261102-01.png",
-        "sourceSha256": "bb1c110834f5282315727f7de84ebca19d97afe3aa68492791679fef16d71b51",
-        "captureCommit": "dffb2fcd49338e8d7799b50a527baac1760f8720",
-        "workflowRunId": "41392885125",
+        "sourcePath": "arcade/capture-evidence/review-20261103-01.png",
+        "sourceSha256": "b418c6e77b2dfbb59df89aaef0a918eaa3d12242b991e8553da3a0235e34608e",
+        "captureCommit": "15908e650d4deb019122e07443c51e9dda7985aa",
+        "workflowRunId": "41675658557",
         "inputHashes": {
-          "index.html": "3ab164c0602dc3c105479fc812a08d8c2bc1c446ecee4b1e8c938119fc317a64",
+          "index.html": "644ac606a04a7aeb69949255dde137da11089dcce434c534bfccea6ae35b20ea",
           "style.css": "bf34cf9c218e37b2766192eeb2debde273efc62fcd5762bd6da5c188eb253cd1",
-          "game.js": "6d9bf9f30ce2e639b15f0c77c10de8c8c6cb42f185e6d0810c2145b352a60eab"
+          "game.js": "fe30f46a5734b92a11470d0400e91fb6385201b812b4cfaed1b682fca617b8d9"
         },
-        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
-        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
-        "captureRecordSha256": "022baae7faa096f71fbdb8799b1253f97fa56a0b9badfee1874c3012a1cc9c80"
+        "publishedFilesVerifiedAt": "2026-11-03T16:39:52Z",
+        "captureRecordPath": "arcade/capture-evidence/review-20261103-record.json",
+        "captureRecordSha256": "728d5ffa64e90e3d1f4d3ecb04e4b1e48707286cc4ba1dbaaca45c18dae3bf0c"
       }
     },
     {
-      "path": "arcade/screenshots/ci-20261102-02.jpg",
-      "sha256": "9ac56ea922fab1d0983ceb309076d762659fd45996b2d209121d446e5f86dc98",
-      "alt": "Crossfire Field gameplay, view 2",
+      "path": "arcade/screenshots/review-20261103-02.jpg",
+      "sha256": "f83a875a2d5f524844154c03aaba8a90254b43086c9c95e52520a5d4f424a556",
+      "alt": "Crossfire Field gameplay after the mechanics update, view 2",
       "provenance": {
         "kind": "ci_gameplay_capture",
-        "sourcePath": "arcade/capture-evidence/ci-20261102-02.png",
-        "sourceSha256": "8b043c3a0948071ae05ab0307e950894a5803b561c41355f970a8c5581b1bee5",
-        "captureCommit": "dffb2fcd49338e8d7799b50a527baac1760f8720",
-        "workflowRunId": "41392885125",
+        "sourcePath": "arcade/capture-evidence/review-20261103-02.png",
+        "sourceSha256": "a1cca9f26169a5005ca656d539b930292c6de3ccfbd54bac7826d9e1a2fd652f",
+        "captureCommit": "15908e650d4deb019122e07443c51e9dda7985aa",
+        "workflowRunId": "41675658557",
         "inputHashes": {
-          "index.html": "3ab164c0602dc3c105479fc812a08d8c2bc1c446ecee4b1e8c938119fc317a64",
+          "index.html": "644ac606a04a7aeb69949255dde137da11089dcce434c534bfccea6ae35b20ea",
           "style.css": "bf34cf9c218e37b2766192eeb2debde273efc62fcd5762bd6da5c188eb253cd1",
-          "game.js": "6d9bf9f30ce2e639b15f0c77c10de8c8c6cb42f185e6d0810c2145b352a60eab"
+          "game.js": "fe30f46a5734b92a11470d0400e91fb6385201b812b4cfaed1b682fca617b8d9"
         },
-        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
-        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
-        "captureRecordSha256": "022baae7faa096f71fbdb8799b1253f97fa56a0b9badfee1874c3012a1cc9c80"
+        "publishedFilesVerifiedAt": "2026-11-03T16:39:52Z",
+        "captureRecordPath": "arcade/capture-evidence/review-20261103-record.json",
+        "captureRecordSha256": "728d5ffa64e90e3d1f4d3ecb04e4b1e48707286cc4ba1dbaaca45c18dae3bf0c"
       }
     }
   ]
